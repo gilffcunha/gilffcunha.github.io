@@ -2009,7 +2009,7 @@ input, select, textarea {
 		background: rgb(255, 253, 253);
 		border-radius: 0;
 		border: none;
-		color: inherit;
+		color: #000000;
 		display: block;
 		outline: 0;
 		padding: 0 1em;
